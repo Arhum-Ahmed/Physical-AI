@@ -157,3 +157,15 @@ roslaunch realsense2_camera rs_camera.launch
 source ~/.bashrc
 python3 /root/demo_viz.py
 ```
+
+## Directory Tree
+```
+├── deployment # (for edge device)
+│   └── demo_viz.py
+├── inference # (for inference run after training)
+│   └── run_inference.py
+├── training # (for training)
+│    ├── goal_marker.py
+│    └── train_stage.py
+├── README.md
+```
