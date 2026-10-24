@@ -3,7 +3,7 @@
 This repo dives into a small project to explore Physical-AI. For this purpose, a DRL (Deep Reinforcement Learning) model is trained on Gazebo simulator and is deployed on an edge device. This also relates to the idea of zero-shot sim-to-real transfer.
 
 ## Hardware
-For training a Linux machine with 16 GB RAM, i5 10th Gen, and GTX 1660 Ti was used. For the deployment, a NVIDIA Jetson Orin used as the edge device and Intel Realsense Depth Camera was used as a visual device.
+For training a Linux machine with 16 GB RAM, i5 10th Gen, and GTX 1660 Ti was used. For deployment, a NVIDIA Jetson Orin was used as the edge device and Intel Realsense Depth Camera was used as a visual device.
 
 ## Software
 The setup requires the following:
