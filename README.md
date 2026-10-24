@@ -155,5 +155,5 @@ roslaunch realsense2_camera rs_camera.launch
 **4. Terminal 2 - Demo visualization**
 ```bash
 source ~/.bashrc
-python3 /root/run_inference.py
+python3 /root/demo_viz.py
 ```
