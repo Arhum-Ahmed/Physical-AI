@@ -167,5 +167,5 @@ python3 /root/demo_viz.py
 ├── training # (for training)
 │    ├── goal_marker.py
 │    └── train_stage.py
-├── README.md
+└── README.md
 ```
